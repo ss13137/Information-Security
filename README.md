@@ -10,6 +10,6 @@
 | Lab 8 | Text Editing with Vim |
 | Lab 9 | Installed, explored, removed and purged the nginx package using apt |
 | Lab 10 | Configured nginx and used proxy_pass to reach an API |
-| Lab 11 |  |
+| Lab 11 | Installed youtube-dl, neofetch and figlet from source |
 | Lab 12 |  |
 | Lab 13 |  |
