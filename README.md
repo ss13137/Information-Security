@@ -1,3 +1,8 @@
+# Information Security
+
+## Repository Contents
+
+This repository contains all my lab assignments, code files, and screenshots documenting my work throughout the Information Security course.
 | Lab | Topic |
 |-----|-------|
 | Lab 1 | Unix / Linux Command Line Basics |
