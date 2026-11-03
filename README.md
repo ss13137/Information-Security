@@ -12,4 +12,4 @@
 | Lab 10 | Configured nginx and used proxy_pass to reach an API |
 | Lab 11 | Installed youtube-dl, neofetch and figlet from source |
 | Lab 12 | Brute-forced a local FastAPI login with Hydra |
-| Lab 13 |  |
+| Lab 13 | Explored keylogger architecture and detection |
